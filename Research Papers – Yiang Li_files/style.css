@@ -405,7 +405,7 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
 .sub-menu > li > a{color: #425964; display: block; width: 100%; padding: 5px 10px;}
 .sub-menu > li{width: 100%; display: block; }
 .sub-menu > li > a:hover, 
-.sub-menu > li.menu-item-has-children:hover > a{background:#00bce4;  color: #fff;}
+.sub-menu > li.menu-item-has-children:hover > a{background:#C02013;  color: #fff;}
 
 .navbar-nav > li:last-child > .sub-menu{ right: 0; left: inherit;padding:0; }
 
