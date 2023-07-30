@@ -141,7 +141,7 @@ ol{
 
 }
 ol li{
-      margin-bottom: 5px;
+      margin-bottom: 0px;
 
 }
 
@@ -417,8 +417,8 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
 }
 
 .cmn-gap{
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 .main-head{
   background: #fff;
@@ -753,7 +753,7 @@ section:last-child .cmn-gap-border{
 /*software*/
 .breadcrumb_outtr {
   margin-top: 25px;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 .breadcrumb_outtr .breadcrumb-item.active {
     color: #232b34;
@@ -779,7 +779,7 @@ section:last-child .cmn-gap-border{
 
 .sub_haeding_mn{
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 .sub_haeding_mn:last-child{margin-bottom: 0;}
 
