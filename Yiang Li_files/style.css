@@ -540,7 +540,6 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
 }
 .welcome_banner_row_left_in p span{
     color: #75140c;
-    text-transform: uppercase;
 }
 .welcome_banner_row_left_in p:last-child{margin-bottom: 0;}
 .welcome_banner_row_left_in .scl_img{margin-bottom: 0;}
