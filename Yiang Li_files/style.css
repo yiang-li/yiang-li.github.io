@@ -360,7 +360,7 @@ transform: scale(1);
 }
 .navbar{
 background: none; margin: 0; padding: 0; 
-min-height: inherit; height: inherit;
+min-height: 0; height: 0;
 border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
 -ms-border-radius: 0;-o-border-radius: 0;border-radius: 0;
 }
@@ -368,7 +368,7 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
   position: relative;
   list-style: none;
 }
-.navbar-nav > li{margin: -10px 18px;padding: 0; position: relative;}
+.navbar-nav > li{margin: -10px 19px;padding: 0; position: relative;}
 .navbar-nav > li:last-child{margin-right:0;}
 .navbar-nav > li:first-child{margin-left:0;}
 /*if need to uppercase the menu navbar texts put:  in the curly brackets below*/
@@ -1246,7 +1246,7 @@ section:last-child .cmn-gap-border{
   margin-top: 0;
   cursor: pointer;
   border: none;
-  font-size: 26px;
+  font-size: 20px;
   color: #232b34 !important;
   display: table;
   margin-left: auto;
@@ -1300,7 +1300,7 @@ body.show_hd_bdy{
     
 /* navbar*/
 .navbar-nav .clickD{
-  top: 6px;
+  top: 0px;
   right: 10px;
 }
 .sub-menu, .navbar-nav > li > .sub-menu .sub-menu{
