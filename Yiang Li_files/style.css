@@ -371,8 +371,13 @@ border:none; -webkit-border-radius: 0; -moz-border-radius: 0;
 .navbar-nav > li{margin: -10px 19px;padding: 0; position: relative;}
 .navbar-nav > li:last-child{margin-right:0;}
 .navbar-nav > li:first-child{margin-left:0;}
-/*if need to uppercase the menu navbar texts put:  in the curly brackets below*/
-.navbar-nav > li > a{color: #232b34;font-size: 18px;line-height: 1;text-transform: uppercase;position: relative;z-index: 1;transition: 0.3s ease-in-out;-webkit-transition: 0.3s ease-in-out;}
+/*if need to uppercase the menu navbar texts put:text-transform: uppercase;  in the curly brackets below*/
+.navbar-nav > li > a{color: #232b34;
+    font-size: 18px;
+    line-height: 1;
+    position: relative;
+    z-index: 1;
+    transition: 0.3s ease-in-out;-webkit-transition: 0.3s ease-in-out;}
 /*COMMENT OUT THE HOVER ICON.navbar-nav > li > a:after,.navbar-nav > li.current-menu-item > a:after{
     position: absolute;
     content: "";
@@ -1092,7 +1097,6 @@ section:last-child .cmn-gap-border{
 }*/
 .prd_lnk > a {
 	margin-top: 15px;
-	text-transform: capitalize;
 	padding: 0px 20px;
 	color: #75140c;
 	font-weight: 400;
