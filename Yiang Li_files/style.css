@@ -68,7 +68,7 @@ body{
     width: 100%; 
     font-weight: 400;
     color: #232b34; 
-    font-size: 16px; 
+    font-size: 18px; /* Adjust main text font size here */
     line-height: 1.4;
 }
 
